@@ -21,5 +21,9 @@ def DisplayResults(results):
         print(f"{i:>4}", end=" ")
     print()
 
+
+# Generate 100 draws
+
 for i in range(100):
     Lottery()
+
