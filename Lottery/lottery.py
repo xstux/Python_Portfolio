@@ -1,5 +1,7 @@
-import random
+# Lottery number generator
+# Stuart F : 29 May 2023
 
+import random
 random.seed()
 
 def Lottery():
